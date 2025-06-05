@@ -1,5 +1,5 @@
-# Plant Diesase Detection - Requirements
-# Compatible with Python 3.8+
+# Plant Disease Detection - Requirements
+# Compatible with Python 3.8-3.11
 
 # Web Application Framework
 streamlit
@@ -12,7 +12,7 @@ seaborn
 
 # Machine Learning Libraries
 scikit-learn
-tensorflow
+tensorflow>=2.12.0,<2.16.0
 
 # Image Processing
 opencv-python
