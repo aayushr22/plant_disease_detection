@@ -1,0 +1,1 @@
+Plant Disease Detection made on Jupyter notebook

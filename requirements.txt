@@ -1,0 +1,26 @@
+# Plant Diesase Detection - Requirements
+# Compatible with Python 3.8+
+
+# Web Application Framework
+streamlit
+
+# Core Data Science Libraries
+numpy
+pandas
+matplotlib
+seaborn
+
+# Machine Learning Libraries
+scikit-learn
+tensorflow
+
+# Image Processing
+opencv-python
+Pillow
+
+# Jupyter Notebook Interface (for development)
+ipywidgets
+jupyter
+
+# Additional utilities for compatibility
+setuptools
